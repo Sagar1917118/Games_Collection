@@ -1,4 +1,6 @@
-# Game Collection | https://games-collection-omega.vercel.app/
+# Game Collection 
+https://games-collection-omega.vercel.app/
+
 An interactive game portal featuring classic games: **Tic-Tac-Toe, Hangman, Pac-Man, Flappy Bird, 2048, and Snake**. The portal includes real-time multiplayer functionality and intelligent AI features for an enhanced gaming experience.
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
