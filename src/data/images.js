@@ -12,12 +12,6 @@ const images = [
       link:"https://sagar1917118.github.io/1024Game/"
     },
     {
-      imgURL:flappybird,
-      imgAlt: "img-2",
-      name:"FlappyBird",
-      link:"https://sagar1917118.github.io/FlappyBird/"
-    },
-    {
       imgURL:hangman,
       imgAlt: "img-3",
       name:"HangMan",
@@ -27,7 +21,7 @@ const images = [
       imgURL:packman,
       imgAlt: "img-4",
       name:"PackMan",
-      link:"https://sagar1917118.github.io/PackMan/"
+      link:"https://pack-man-game.vercel.app/"
     },
     {
       imgURL:snake,
