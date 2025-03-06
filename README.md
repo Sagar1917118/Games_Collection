@@ -1,79 +1,65 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Game Collection | https://games-collection-omega.vercel.app/
+An interactive game portal featuring classic games: **Tic-Tac-Toe, Hangman, Pac-Man, Flappy Bird, 2048, and Snake**. The portal includes real-time multiplayer functionality and intelligent AI features for an enhanced gaming experience.
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Real-time Multiplayer**: Socket.IO
+- **Game Logic**: JavaScript algorithms and AI implementations
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/game-portal.git
+   cd game-portal
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Start the server:
+   ```sh
+   npm start
+   ```
+4. Open the browser and visit `http://localhost:3000` to start playing.
 
-## Available Scripts
+## Tic_Tac-Toe | https://sagar1917118.github.io/Tic_Tac_Toe/
+- Play against another user
+- Challenge the computer with AI-based gameplay.
+  
+  ![image](https://github.com/user-attachments/assets/4ecbd671-5417-4963-bae2-f6b504a51008)
+  ![image](https://github.com/user-attachments/assets/aef2e85e-b9f2-4952-8d35-8aadb5c0ee73)
+  
+  
+## Hangman | https://sagar1917118.github.io/HangMan/
+- Classic word-guessing game with more than **five different categories** of words.
+  
+  ![image](https://github.com/user-attachments/assets/9fe4bb07-1a46-47e4-8ed9-49720aaad426)
+  ![image](https://github.com/user-attachments/assets/b104d801-5566-4f02-a2be-822fa829e8be)
+  
+  
+## Pac-Man | https://pack-man-game.vercel.app/
+- Navigate Pac-Man through a maze, avoid ghosts, and collect points.
+- **Dijkstra’s algorithm** optimizes ghost movements for intelligent pathfinding.
+- Control Pac-Man using **buttons or keyboard controls**.
+-   
+ ![image](https://github.com/user-attachments/assets/4eca8c1a-c959-4d1c-ab27-136abe34ec65)
 
-In the project directory, you can run:
+  
+## 2048 Game | https://sagar1917118.github.io/1024Game/
+- Merge numbers by swiping in different directions until reaching 2048. The game continues until no valid moves remain.
+- Control Pac-Man using **buttons or keyboard controls**.
+  
+  ![image](https://github.com/user-attachments/assets/8e3db699-e653-486e-b133-74d792d51fdf)
+  
+  
+## Snake Game | https://sagar1917118.github.io/Sname_Game/
+- Classic **2D snake game** where the snake grows by eating food and dies upon **collision detection**.
+- Includes **sound functionality** for an immersive experience.
+- Control Pac-Man using **buttons or keyboard controls**.
+ ![image](https://github.com/user-attachments/assets/22a19e76-222d-489b-a267-d783209920c9)
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Games_Collection
-This is my Games Collection that I had build
->>>>>>> d8176fe6f985a9b3d5284892984d8f79c883bb6f
+  
 
 
-VerCel DeployMent Link
-https://games-collection-omega.vercel.app/
+
+
